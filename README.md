@@ -16,7 +16,7 @@ JSanrivo is an **independent, author-led mathematical journal** dedicated to pub
 It aims to provide a **fast, transparent, and fully accessible platform** for sharing ideas without the constraints of traditional journals.  
 
 This repository contains:  
-- **Journal/VolXX/** — Published PDFs of papers  
+- **Journal/Vol01/** — Published PDFs of papers  
 - **Notes/** — GitNote-style workspace for drafts, proofs, and LaTeX snippets  
 - **Editorial/** — Scope, Ethics, AI Policy  
 - **CITATION.cff** — Citation metadata  
