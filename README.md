@@ -46,7 +46,7 @@ Dey, E. (2026). Title of the Paper. JSanrivo — Independent Mathematical Journa
   title = {Title of the Paper},
   year = {2026},
   howpublished = {JSanrivo — Independent Mathematical Journal},
-  url = {https://github.com/YOURUSERNAME/JSanrivo}
+  url = {https://github.com/rmremondey-mathematics/JSanrivo}
 }
 
 ---
@@ -55,7 +55,7 @@ Dey, E. (2026). Title of the Paper. JSanrivo — Independent Mathematical Journa
 
 - **Scope:** Original mathematics research across all fields  
 - **Ethics:** All works follow academic integrity; plagiarism is not tolerated  
-- **AI Policy:** AI may be used **only for formatting, LaTeX assistance, or presentation**, not for generating original research content
+- **AI Policy:** AI may be used **only for formatting, LaTeX assistance, or presentation**, not for generating original research 
 
 ---
 
